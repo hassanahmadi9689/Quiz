@@ -19,3 +19,4 @@ C:\Users\Hassan\RiderProjects\Quiz\Quiz.Persistence.Ef\obj\Debug\net7.0\refint\Q
 C:\Users\Hassan\RiderProjects\Quiz\Quiz.Persistence.Ef\obj\Debug\net7.0\Quiz.Persistence.Ef.pdb
 C:\Users\Hassan\RiderProjects\Quiz\Quiz.Persistence.Ef\obj\Debug\net7.0\Quiz.Persistence.Ef.genruntimeconfig.cache
 C:\Users\Hassan\RiderProjects\Quiz\Quiz.Persistence.Ef\obj\Debug\net7.0\ref\Quiz.Persistence.Ef.dll
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.Persistence.Ef\obj\Debug\net7.0\Quiz.Persistence.Ef.sourcelink.json

@@ -15,3 +15,4 @@ C:\Users\Hassan\RiderProjects\Quiz\Quiz.Services\obj\Debug\net7.0\Quiz.Services.
 C:\Users\Hassan\RiderProjects\Quiz\Quiz.Services\obj\Debug\net7.0\refint\Quiz.Services.dll
 C:\Users\Hassan\RiderProjects\Quiz\Quiz.Services\obj\Debug\net7.0\Quiz.Services.pdb
 C:\Users\Hassan\RiderProjects\Quiz\Quiz.Services\obj\Debug\net7.0\ref\Quiz.Services.dll
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.Services\obj\Debug\net7.0\Quiz.Services.sourcelink.json

@@ -36,6 +36,12 @@ public class PlayerAppServices : PlayerServices
 
     public List<GetPlayerDto> GetPlayerBySearch(GetFilterPlayerDto dto)
     {
-        return _repository.GetByAge(dto);
+        var search=_repository.GetByAge(dto);
+        if (search is null)
+        {
+            throw new Exception("not found");
+        }
+
+        return search;g
     }
 }

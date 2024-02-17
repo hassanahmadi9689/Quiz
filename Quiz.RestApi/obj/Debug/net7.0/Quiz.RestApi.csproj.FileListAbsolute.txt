@@ -77,3 +77,4 @@ C:\Users\Hassan\RiderProjects\Quiz\Quiz.RestApi\obj\Debug\net7.0\refint\Quiz.Res
 C:\Users\Hassan\RiderProjects\Quiz\Quiz.RestApi\obj\Debug\net7.0\Quiz.RestApi.pdb
 C:\Users\Hassan\RiderProjects\Quiz\Quiz.RestApi\obj\Debug\net7.0\Quiz.RestApi.genruntimeconfig.cache
 C:\Users\Hassan\RiderProjects\Quiz\Quiz.RestApi\obj\Debug\net7.0\ref\Quiz.RestApi.dll
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.RestApi\obj\Debug\net7.0\Quiz.RestApi.sourcelink.json
