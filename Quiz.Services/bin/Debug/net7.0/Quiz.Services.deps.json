@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Quiz.Services/1.0.0": {
+        "dependencies": {
+          "Quiz.Entities": "1.0.0",
+          "Taav.Contract": "1.0.0"
+        },
+        "runtime": {
+          "Quiz.Services.dll": {}
+        }
+      },
+      "Quiz.Entities/1.0.0": {
+        "runtime": {
+          "Quiz.Entities.dll": {}
+        }
+      },
+      "Taav.Contract/1.0.0": {
+        "runtime": {
+          "Taav.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quiz.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Quiz.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Taav.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

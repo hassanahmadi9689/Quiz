@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVnxn8LPUf6ikAmp+JPloNGZ+bdSXUCF2Q5l6iGybIionnFDPrQw3gOsCUPl6g+lcqWODGA52iXJGTctY6tCAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hassan\\RiderProjects\\Quiz\\Taav.Contract\\Taav.Contract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hassan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\Hassan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\Hassan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.12\\microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

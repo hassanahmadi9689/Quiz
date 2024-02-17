@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "repK66ZETgoxvlGESi5w3auhvh7OiE4hJ7p4LGVTC2c+40gx/frGBcuzv7Rz26wmxcDtNOilwFwsFTHIDNAR1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hassan\\RiderProjects\\Quiz\\Quiz.Entities\\Quiz.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hassan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\Hassan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\Hassan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.12\\microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

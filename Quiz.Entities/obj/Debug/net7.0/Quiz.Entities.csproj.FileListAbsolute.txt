@@ -1,0 +1,11 @@
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.Entities\bin\Debug\net7.0\Quiz.Entities.deps.json
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.Entities\bin\Debug\net7.0\Quiz.Entities.dll
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.Entities\bin\Debug\net7.0\Quiz.Entities.pdb
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.Entities\obj\Debug\net7.0\Quiz.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.Entities\obj\Debug\net7.0\Quiz.Entities.AssemblyInfoInputs.cache
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.Entities\obj\Debug\net7.0\Quiz.Entities.AssemblyInfo.cs
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.Entities\obj\Debug\net7.0\Quiz.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.Entities\obj\Debug\net7.0\Quiz.Entities.dll
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.Entities\obj\Debug\net7.0\refint\Quiz.Entities.dll
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.Entities\obj\Debug\net7.0\Quiz.Entities.pdb
+C:\Users\Hassan\RiderProjects\Quiz\Quiz.Entities\obj\Debug\net7.0\ref\Quiz.Entities.dll
